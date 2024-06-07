@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         Flightradar24 Add Remover
-// @namespace    http://tampermonkey.net/
+// @name         Flightradar24 Ad Remover
+// @namespace    
 // @version      1
-// @description  Remove adds from flightradar24.
-// @author       You
+// @description  Remove ads from flightradar24.
+// @author       Silver-Snail
 // @match        https://www.flightradar24.com/*
 // @icon         https://www.flightradar24.com/static/favicons/favicon.svg
 // @grant        none
